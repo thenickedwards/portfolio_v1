@@ -43,6 +43,7 @@ header div ul li {
 }
 
 header a {
+    padding: 5px;
     color: #ffffff;
     text-decoration: none;
 }
