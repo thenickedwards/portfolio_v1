@@ -86,17 +86,23 @@ header a:active {
 
 /* general styling */
 
+main {
+    width: 100vw;
+    overflow: hidden;
+}
+
 .subjectmain {
     margin: 40px 10px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    width: 100%;
 }
 
 .subjectmain h3 {
     color: #071013;
     font-size: 40px;
     padding-right: 30px;
+    flex: 1;
     border-right: #071013 solid 2px;
 }
 
@@ -105,30 +111,87 @@ header a:active {
     font-size: 12px;
     padding-left: 20px;
     margin-right: 10px;
-    width: 70%;
+    flex: 3;
 }
 
+.subjectmain div ul {
+    list-style-type: none;
+    padding-left: 20px;
+    margin-right: 10px;
+    flex: 3;
+}
+
+.subjectmain ul li {
+    display: inline-block;
+}
+
+.subjectmain a {
+    padding: 5px;
+    color: #677A8E;;
+    text-decoration: none;
+}
+
+.subjectmain a:hover {
+    color: #ffffff;
+    padding: 5px;
+    background-color: #23B5D3;
+}
+
+.subjectmain a:focus {
+    color: #ffffff;
+    padding: 5px;
+    background-color: #23B5D3;
+}
+
+.subjectmain a:active {
+    color: #ffffff;
+    padding: 5px;
+    background-color: #23B5D3;
+    border: solid #677A8E 1.5px;
+}
+
+/* sample styling */
+
 .samples {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
+    margin: 40px 10px;
+    padding: 5px;
     width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 3;
 }
 
 .sampleitem {
-    background-color: darkgray;
-    width: 300px;
-    border: 2px dashed #23B5D3;
-    padding: 50px;
-    margin: 20px;
-    flex: 1 0 50%
-  }
+    border: 2px solid #23B5D3;
+    margin: 10px;
+    width: 45%;
+    /* flex: 1 */
+}
 
-  .samplefeature {
-    background-color: darkgray;
+.sampleitem img {
+      width: 100%;
+}
+
+.sampleitem h4 {
+    color: white;
+    background-color: #23B5D3;
+    font-size: 30px;
+}
+
+.samplefeature {
+    border: 2px solid #23B5D3;
+    margin: 10px;
+    width: 95%;
+    /* flex: 2; */
+}
+
+.samplefeature img {
     width: 100%;
-    border: 2px dashed #23B5D3;
-    padding: 50px;
-    margin: 20px;
-    flex: 1 0 100%
-  }
+}
+
+.samplefeature h4 {
+    color: white;
+    background-color: #23B5D3;
+    font-size: 30px;
+}
