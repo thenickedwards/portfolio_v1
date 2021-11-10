@@ -118,11 +118,11 @@ main {
     list-style-type: none;
     padding-left: 20px;
     margin-right: 10px;
-    flex: 3;
 }
 
 .subjectmain ul li {
     display: inline-block;
+    padding: 10px;
 }
 
 .subjectmain a {
@@ -150,6 +150,14 @@ main {
     border: solid #677A8E 1.5px;
 }
 
+#contact div {
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 20px;
+    margin-right: 10px;
+    flex: 3;
+}
+
 /* sample styling */
 
 .samples {
@@ -166,7 +174,6 @@ main {
     border: 2px solid #23B5D3;
     margin: 10px;
     width: 45%;
-    /* flex: 1 */
 }
 
 .sampleitem img {
@@ -183,7 +190,6 @@ main {
     border: 2px solid #23B5D3;
     margin: 10px;
     width: 95%;
-    /* flex: 2; */
 }
 
 .samplefeature img {
@@ -194,4 +200,25 @@ main {
     color: white;
     background-color: #23B5D3;
     font-size: 30px;
+}
+
+/* footer styling */
+
+footer {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #677A8E;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+}
+
+/* styling samples for phones */
+
+@media screen and (max-width: 768px) {
+    .sampleitem {
+        border: 2px solid #23B5D3;
+        margin: 10px;
+        width: 95%;
+    }
 }
