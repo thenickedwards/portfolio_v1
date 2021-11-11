@@ -218,10 +218,23 @@ footer {
 
 /* styling samples for phones */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 847px) {
     .sampleitem {
         border: 2px solid #23B5D3;
         margin: 10px;
         width: 95%;
+    }
+
+    #contact div {
+        display: flex;
+        justify-content: flex-start;
+        padding-left: 20px;
+        margin-right: 10px;
+        flex: 3;
+    }
+
+    .subjectmain ul li {
+        display: block;
+        padding: 10px;
     }
 }
