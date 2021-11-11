@@ -172,6 +172,7 @@ main {
 }
 
 .sampleitem {
+    background: #23B5D3;
     border: 2px solid #23B5D3;
     margin: 10px;
     width: 45%;
@@ -188,6 +189,7 @@ main {
 }
 
 .samplefeature {
+    background: #23B5D3;
     border: 2px solid #23B5D3;
     margin: 10px;
     width: 95%;
