@@ -1,4 +1,4 @@
-# 02 Advanced CSS: Portfolio
+# portfolio
 Homework 02 Advanced CSS: Portfolio - Create online portfolio
 
 Portfolio webpage created per accepatance criteria listed in [W2-hw_README.md](W2-hw_README.md).
