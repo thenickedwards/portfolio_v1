@@ -9,10 +9,13 @@ Week 2 accepatance criteria listed in [W2-hw_README.md](W2-hw_README.md).
 
 Week 8 accepatance criteria listed in [W8-hw_README.md](W8-hw_README.md).
 
-## Links
+## Links & License
 URL for published page: https://thenickedwards.github.io/portfolio/
 
 URL for GitHub repo: https://github.com/thenickedwards/portfolio
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
 ## Work Samples
 * HoliDAZE
 ![Screenshot of HoliDAZE group project webpage in desktop browser.](images/holidaze-plac.jpeg)
