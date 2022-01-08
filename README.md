@@ -4,8 +4,11 @@ Welcome to my portfolio! First of all thank you for being so thorough as to chec
 This portoflio began as a Week 2 homework assignment in coding bootcamp. All the images and links were mere placeholders for the awesomeness to come.  A few weeks later and the site is beginning to take shape as a place to share my work, contact info, and a little about myself. There's more work to do and I'm ready for it.
 
 Here's a look back at the requirements for each assignment.
+
 Week 2 accepatance criteria listed in [W2-hw_README.md](W2-hw_README.md).
+
 Week 8 accepatance criteria listed in [W8-hw_README.md](W8-hw_README.md).
+
 ## Links
 URL for published page: https://thenickedwards.github.io/portfolio/
 
@@ -46,9 +49,13 @@ Screenshot of Nick Edwards' portfolio webpage in mobile browser.
 
 ## Contact Info
 GitHub - https://github.com/thenickedwards
+
 LinkedIn - https://www.linkedin.com/in/nick-edwards-dev/
+
 📱 929-464-6425
+
 📧 nickedwards.dev@gmail.com
+
 
 ## Post Scriptum
 Have a look around the work samples and let me know what you think! If you want to start a conversation or have any questions, my contact info is just above. Thanks again for stopping by and have a great day!
