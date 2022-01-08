@@ -14,17 +14,25 @@ URL for GitHub repo: https://github.com/thenickedwards/portfolio
 * HoliDAZE
 ![Screenshot of HoliDAZE group project webpage in desktop browser.](images/holidaze-plac.jpeg)
 An international holiday finder which searches results by country and date or by search query.  Group project with Juanita Samborski, Ethan Buchanan, and Kasai Preston. Technologies used: HTML, CSS, JS, APIs
+
 URL: https://jsamborski310.github.io/Holidaze
+
 Repo: https://github.com/jsamborski310/Holidaze
 
 * Weather Dashboard
+![Screenshot of Weather Dashboard webpage in desktop browser.](images/weather_dash-plac.jpeg)
 A weather application which renders the current conditions and 5-day forecast based on a searched city. Technologies used: HTML, CSS, JS, jQuery, Frameworks, APIs
+
 URL: https://thenickedwards.github.io/weather-dashboard
+
 Repo: https://github.com/thenickedwards/weather-dashboard
 
 * Sounders Quiz
+![Screenshot of Sounders Quiz webpage in desktop browser.](images/quiz_ebfg-plac.jpeg)
 Demo of HTML created dynamically via JavaScript (so a player can’t use Dev Tools to peek at questions and answers ;).  Local storage allows players to store their high scores to their browser. Technologies used: HTML, CSS, JS
+
 URL: https://thenickedwards.github.io/sounders-quiz
+
 Repo: https://github.com/thenickedwards/sounders-quiz
 
 * The final two images in the porfolio are plceholders, though rest assured my code will soon replace those with live, vibrant sites coded by yours truly.
@@ -41,3 +49,6 @@ GitHub - https://github.com/thenickedwards
 LinkedIn - https://www.linkedin.com/in/nick-edwards-dev/
 📱 929-464-6425
 📧 nickedwards.dev@gmail.com
+
+## Post Scriptum
+Have a look around the work samples and let me know what you think! If you want to start a conversation or have any questions, my contact info is just above. Thanks again for stopping by and have a great day!
