@@ -5,11 +5,11 @@ This portfolio began as a Week 2 homework assignment in coding bootcamp. All the
 
 Here's a look back at the requirements for each assignment.
 
-Week 2 accepatance criteria listed in [W2-hw_README.md](W2-hw_README.md).
+Week 2 acceptance criteria listed in [W2-hw_README.md](W2-hw_README.md).
 
-Week 8 accepatance criteria listed in [W8-hw_README.md](W8-hw_README.md).
+Week 8 acceptance criteria listed in [W8-hw_README.md](W8-hw_README.md).
 
-Week 16 accepatance criteria listed in [W16-hw_README.md](W8-hw_README.md).
+Week 16 acceptance criteria listed in [W16-hw_README.md](W8-hw_README.md).
 
 ## Links & License
 URL for published page: https://thenickedwards.github.io/portfolio/
@@ -37,7 +37,7 @@ Repo: https://github.com/thenickedwards/game-notes
 
 * Happy Habit Tracker
 ![Screenshot of Happy Habit Tracker webpage in desktop browser.](images/app-habitracker.jpg)
-An application to keep tabs on your physical, mental, and dietary health. Maintain your well being by tracking good habits! Technologies used: HTML, Handlebars, CSS, JS, Chart.js, APIs, MVC, Sequelize, Express, Heroku
+An application to keep tabs on your physical, mental, and dietary health. Maintain your well-being by tracking good habits! Technologies used: HTML, Handlebars, CSS, JS, Chart.js, APIs, MVC, Sequelize, Express, Heroku
 
 Heroku URL: https://happy-habit-tracker-app.herokuapp.com/
 
