@@ -76,6 +76,7 @@ LinkedIn - https://www.linkedin.com/in/nick-edwards-dev/
 
 📧 nickedwards.dev@gmail.com
 
+[Downloadable pdf Resume on Google Drive](https://drive.google.com/file/d/1MpF32DjePh1AnBQxJnQvAtt_kUL-e0iV/view?usp=sharing)
 
 ## Post Scriptum
 Have a look around the work samples and let me know what you think! If you want to start a conversation or have any questions, my contact info is just above. Thanks again for stopping by and have a great day!
