@@ -5,11 +5,11 @@ This portfolio began as a Week 2 homework assignment in coding bootcamp. All the
 
 Here's a look back at the requirements for each assignment.
 
-Week 2 acceptance criteria listed in [W2-hw_README.md](W2-hw_README.md).
+Week 2 acceptance criteria listed in [W2-hw_README.md](/z-archive/W2-hw_README.md).
 
-Week 8 acceptance criteria listed in [W8-hw_README.md](W8-hw_README.md).
+Week 8 acceptance criteria listed in [W8-hw_README.md](/z-archive/W8-hw_README.md).
 
-Week 16 acceptance criteria listed in [W16-hw_README.md](W8-hw_README.md).
+Week 16 acceptance criteria listed in [W16-hw_README.md](/z-archive/W16-hw_README.md).
 
 ## Links & License
 URL for published page: https://thenickedwards.github.io/portfolio/
