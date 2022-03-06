@@ -1,7 +1,7 @@
 # portfolio
-Welcome to my portfolio! First of all thank you for being so thorough as to check out the readme! You must be good at your job and thorough to boot. I think we'll work well together!
+Welcome to my portfolio! First of all thank you for being so thorough as to check out the readme! You must be good at your job. I think we'll work well together!
 
-This portoflio began as a Week 2 homework assignment in coding bootcamp. All the images and links were mere placeholders for the awesomeness to come.  A few weeks later and the site is beginning to take shape as a place to share my work, contact info, and a little about myself. There's more work to do and I'm ready for it.
+This portfolio began as a Week 2 homework assignment in coding bootcamp. All the images and links were mere placeholders for the awesomeness to come.  A few weeks later and the site is beginning to take shape as a place to share my work, contact info, and a little about myself. There's more work to do and I'm ready for it.
 
 Here's a look back at the requirements for each assignment.
 
