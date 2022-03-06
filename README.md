@@ -62,10 +62,10 @@ Repo: https://github.com/thenickedwards/good-readme-generator
 
 ## Screenshots
 Screenshot of Nick Edwards' portfolio webpage in desktop browser.
-![Screenshot of Nick Edwards' portfolio webpage in desktop browser.](screencapture-nick_edwards-portfolio-update_2022Jan.png)
+![Screenshot of Nick Edwards' portfolio webpage in desktop browser.](/images/screencapture-nick_edwards-portfolio-update_2022Mar.png)
 
 Screenshot of Nick Edwards' portfolio webpage in mobile browser.
-![Screenshot of Nick Edwards' portfolio webpage in mobile browser.](screencapture-nick_edwards-portfolio_mobile-update_2022Jan.jpg)
+![Screenshot of Nick Edwards' portfolio webpage in mobile browser.](/images/screencapture-nick_edwards-portfolio_mobile-update_2022Mar.png)
 
 ## Contact Info
 GitHub - https://github.com/thenickedwards
