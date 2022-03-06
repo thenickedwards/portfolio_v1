@@ -9,6 +9,8 @@ Week 2 accepatance criteria listed in [W2-hw_README.md](W2-hw_README.md).
 
 Week 8 accepatance criteria listed in [W8-hw_README.md](W8-hw_README.md).
 
+Week 16 accepatance criteria listed in [W16-hw_README.md](W8-hw_README.md).
+
 ## Links & License
 URL for published page: https://thenickedwards.github.io/portfolio/
 
@@ -25,23 +27,38 @@ URL: https://jsamborski310.github.io/Holidaze
 
 Repo: https://github.com/jsamborski310/Holidaze
 
-* Weather Dashboard
-![Screenshot of Weather Dashboard webpage in desktop browser.](images/weather_dash-plac.jpeg)
-A weather application which renders the current conditions and 5-day forecast based on a searched city. Technologies used: HTML, CSS, JS, jQuery, Frameworks, APIs
+* Game Notes
+![Screenshot of Game Notes webpage in desktop browser.](images/app-gamenotes.jpg)
+A platform for collecting thoughts, observations, questions, etc. on recent soccer games (rather than a tech blog) allowing a head to could coordinate and collaborate with their coaching staff, medical personnel, data analysts, and players. Technologies used: HTML, Handlebars, CSS, JS, APIs, MVC, Sequelize, Express, Heroku
 
-URL: https://thenickedwards.github.io/weather-dashboard
+Heroku URL: https://gamenotes-thenickedwards.herokuapp.com/
 
-Repo: https://github.com/thenickedwards/weather-dashboard
+Repo: https://github.com/thenickedwards/game-notes
+
+* Happy Habit Tracker
+![Screenshot of Happy Habit Tracker webpage in desktop browser.](images/app-habitracker.jpg)
+An application to keep tabs on your physical, mental, and dietary health. Maintain your well being by tracking good habits! Technologies used: HTML, Handlebars, CSS, JS, Chart.js, APIs, MVC, Sequelize, Express, Heroku
+
+Heroku URL: https://happy-habit-tracker-app.herokuapp.com/
+
+Repo: https://github.com/chandrapanda/happy-habit-tracker
 
 * Sounders Quiz
-![Screenshot of Sounders Quiz webpage in desktop browser.](images/quiz_ebfg-plac.jpeg)
+![Gif of Sounders Quiz webpage in mobile browser.](images/app-sounders-quiz-gif-full.gif)
 Demo of HTML created dynamically via JavaScript (so a player can’t use Dev Tools to peek at questions and answers ;).  Local storage allows players to store their high scores to their browser. Technologies used: HTML, CSS, JS
 
 URL: https://thenickedwards.github.io/sounders-quiz
 
 Repo: https://github.com/thenickedwards/sounders-quiz
 
-* The final two images in the porfolio are plceholders, though rest assured my code will soon replace those with live, vibrant sites coded by yours truly.
+* good-readme-generator
+![Gif demo of Command Line Interface and example generated readme markdown.](images/app-good-readme-generator.gif)
+A Command-line application that accepts user input and generates a high-quality, professional README.md. Generated readme includes the title of project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions. Available licenses include badge. GitHub username, email, and table of contents clickable. Technologies used: JS, Inquirer, fs/file system
+
+Demo Video of CLI on Google Drive: https://drive.google.com/file/d/1jIMywy9jxhm8zK6Pv2GPztcIyaX4DLUx/view
+
+Repo: https://github.com/thenickedwards/good-readme-generator
+
 
 ## Screenshots
 Screenshot of Nick Edwards' portfolio webpage in desktop browser.
