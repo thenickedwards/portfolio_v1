@@ -1,4 +1,6 @@
 # portfolio
+UPDATE! As of 4/4/22 a new version of my portfolio is available and this portfolio has been moved to https://thenickedwards.github.io/portfolio_v1/. Feel free to compare to see improvement and check out other repos to see my progression as coder and web developer.  For posterity, everything below has been left as it was written except the live page URL (which was updated).
+
 Welcome to my portfolio! First of all thank you for being so thorough as to check out the readme! You must be good at your job. I think we'll work well together!
 
 This portfolio began as a Week 2 homework assignment in coding bootcamp. All the images and links were mere placeholders for the awesomeness to come.  A few weeks later and the site is beginning to take shape as a place to share my work, contact info, and a little about myself. There's more work to do and I'm ready for it.
@@ -12,7 +14,7 @@ Week 8 acceptance criteria listed in [W8-hw_README.md](/z-archive/W8-hw_README.m
 Week 16 acceptance criteria listed in [W16-hw_README.md](/z-archive/W16-hw_README.md).
 
 ## Links & License
-URL for published page: https://thenickedwards.github.io/portfolio/
+URL for published page: https://thenickedwards.github.io/portfolio_v1/ [UPDATED! See note.]
 
 URL for GitHub repo: https://github.com/thenickedwards/portfolio
 
