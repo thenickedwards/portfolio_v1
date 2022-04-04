@@ -1,5 +1,5 @@
 # portfolio
-UPDATE! As of 4/4/22 a new version of my portfolio is available and this portfolio has been moved to https://thenickedwards.github.io/portfolio_v1/. Feel free to compare to see improvement and check out other repos to see my progression as coder and web developer.  For posterity, everything below has been left as it was written except the live page URL (which was updated).
+**UPDATE!** _As of 4/4/22 a new version of my portfolio is available and this portfolio has been moved to https://thenickedwards.github.io/portfolio_v1/. Feel free to compare to see improvement and check out other repos to see my progression as coder and web developer.  For posterity, everything below has been left as it was written except the live page URL (which was updated)._
 
 Welcome to my portfolio! First of all thank you for being so thorough as to check out the readme! You must be good at your job. I think we'll work well together!
 
